@@ -111,44 +111,6 @@ Price Prediction
 
 ---
 
-# 📂 Project Structure
-
-```text
-Used-Car-Price-Prediction/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Feature_Engineering.ipynb
-│   └── Model_Training.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train.py
-│   ├── predict.py
-│   └── utils.py
-│
-├── models/
-│   └── trained_model.pkl
-│
-├── artifacts/
-│   ├── plots/
-│   └── reports/
-│
-├── app/
-│   ├── templates/
-│   ├── static/
-│   └── app.py
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
 ---
 
 # 🔍 Exploratory Data Analysis
